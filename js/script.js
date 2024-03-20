@@ -71,22 +71,27 @@ function checkRequired(inputArr) {
     return isRequired;
 }
 
+// function downloadApk() {
+//     var apkFilePath = 'https://harshilchovatiya.github.io/dhansafarapp/apk/dhansafar.apk';
+//     fetch(apkFilePath)
+//         .then(response => response.blob())
+//         .then(blob => {
+//             var apkUrl = URL.createObjectURL(blob);
+//             var anchor = document.createElement('a');
+//             anchor.href = apkUrl;
+//             anchor.download = 'DhanSafar.apk';
+//             document.body.appendChild(anchor);
+//             anchor.click();
+//             document.body.removeChild(anchor);
+//         })
+//         .catch(error => {
+//             console.error('Error fetching APK file:', error);
+//         });
+// }
+
 function downloadApk() {
-    var apkFilePath = 'https://harshilchovatiya.github.io/dhansafarapp/apk/dhansafar.apk';
-    fetch(apkFilePath)
-        .then(response => response.blob())
-        .then(blob => {
-            var apkUrl = URL.createObjectURL(blob);
-            var anchor = document.createElement('a');
-            anchor.href = apkUrl;
-            anchor.download = 'DhanSafar.apk';
-            document.body.appendChild(anchor);
-            anchor.click();
-            document.body.removeChild(anchor);
-        })
-        .catch(error => {
-            console.error('Error fetching APK file:', error);
-        });
+    var apkFileUrl = 'https://harshilchovatiya.github.io/dhansafarapp/apk/dhansafar.apk';
+    window.location.href = apkFileUrl;
 }
 
 // Event listener to validate the form when submitted
