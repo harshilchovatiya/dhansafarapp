@@ -106,10 +106,10 @@ document.getElementById("downloadForm").addEventListener("submit", function (eve
         checkLength(phoneNumber, 10, 10);
 
         if (!document.querySelectorAll('.error').length) {
+            downloadApk();
             submitForm(name.value, phoneNumber.value, businessName.value);
             document.getElementById("downloadForm").reset();
             closePopup();
-            downloadApk();
         }
     }
 });
