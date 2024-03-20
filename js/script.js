@@ -97,7 +97,7 @@ document.getElementById("downloadForm").addEventListener("submit", function (eve
     var phoneNumber = document.getElementById("phoneNumber");
     var businessName = document.getElementById("businessName");
     if (!checkRequired([name, phoneNumber, businessName])) {
-        checkLength(name, 2, 15);
+        checkLength(name, 2, 30);
         checkLength(phoneNumber, 10, 10);
 
         if (!document.querySelectorAll('.error').length) {
@@ -159,7 +159,7 @@ document.getElementById("subscriptionForm").addEventListener("submit", function 
     const selectedPlan = document.getElementById("selectedPlan").value;
 
     if (!checkRequired([name, phoneNumber, businessName])) {
-        checkLength(name, 2, 15);
+        checkLength(name, 2, 30);
         checkLength(phoneNumber, 10, 10);
         if (!document.querySelectorAll('.error').length) {
             const formData = `Type: Subscription Inquiry\nDate and Time: ${formattedDate}\nName: ${name.value}\nPhone Number: ${phoneNumber.value}\nBusiness Name: ${businessName.value}\nSelected Plan: ${selectedPlan}`;
