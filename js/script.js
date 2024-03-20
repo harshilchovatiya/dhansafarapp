@@ -72,7 +72,7 @@ function checkRequired(inputArr) {
 }
 
 function downloadApk() {
-    var apkFilePath = 'apk/dhansafar.apk';
+    var apkFilePath = 'https://harshilchovatiya.github.io/dhansafarapp/apk/dhansafar.apk';
     fetch(apkFilePath)
         .then(response => response.blob())
         .then(blob => {
