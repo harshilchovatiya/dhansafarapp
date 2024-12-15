@@ -187,5 +187,9 @@
   "pleaseAddANewEntryToStartTrackingYourExpenses": "कृपया अपनी खर्चों को ट्रैक करने के लिए एक नई एंट्री जोड़ें।",
   "noDataAvailable": "कोई डेटा उपलब्ध नहीं है",
   "noExpensesFound": "कोई खर्च नहीं मिला।",
-  "areYouSureYouWantToDelete": "क्या आप वाकई इसे हटाना चाहते हैं?"
+  "areYouSureYouWantToDelete": "क्या आप वाकई इसे हटाना चाहते हैं?",
+  "editPersonalExpense": "व्यक्तिगत खर्च संपादित करें",
+  "updateProfile": "प्रोफाइल अपडेट करें",
+  "profileUpdatedSuccessfully": "प्रोफाइल सफलतापूर्वक अपडेट हो गई!",
+  "accountPage": "खाता पृष्ठ"
 }
