@@ -174,5 +174,5 @@
   "exIncome": "Ex-Income",
   "exExpense": "Ex-Expense",
   "editIncome": "Edit Income",
-  "areYouSureDeleteEntry": "Are you sure you want to delete this entry?"
-}
+  "areYouSureDeleteEntry": "Are you sure you want to delete this entry?",
+  "pleaseEnterCustomerName": "Please enter Customer Name",
