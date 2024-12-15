@@ -1,0 +1,16 @@
+[
+  {
+    "image": "https://example.com/ad1.jpg",
+    "link": "https://example.com/ad1",
+    "metadata": {
+      "description": "Special Offer!"
+    }
+  },
+  {
+    "image": "https://example.com/ad2.jpg",
+    "link": "https://example.com/ad2",
+    "metadata": {
+      "description": "Limited Time Offer!"
+    }
+  }
+]
