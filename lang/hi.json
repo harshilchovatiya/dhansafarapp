@@ -171,4 +171,21 @@
   "totalExpense": "कुल व्यय",
   "exIncome": "एक्स-आय",
   "exExpense": "एक्स-व्यय",
-  "editIncome": "आय संपादित करें"}
+  "editIncome": "आय संपादित करें",
+  "areYouSureDeleteEntry": "क्या आप वाकई इस एंट्री को हटाना चाहते हैं?",
+  "pleaseEnterCustomerName": "कृपया ग्राहक का नाम दर्ज करें",
+  "pleaseEnterCustomerPhoneNumber": "कृपया ग्राहक का फोन नंबर दर्ज करें",
+  "pleaseEnterProjectWidth": "कृपया प्रोजेक्ट की चौड़ाई दर्ज करें",
+  "pleaseEnterProjectLength": "कृपया प्रोजेक्ट की लंबाई दर्ज करें",
+  "pleaseEnterProjectSize": "कृपया प्रोजेक्ट का आकार दर्ज करें",
+  "pleaseSelectDealFinalizedDate": "कृपया सौदे की अंतिम तिथि चुनें",
+  "pleaseSelectStartDate": "कृपया प्रारंभ तिथि चुनें",
+  "pleaseSelectExpectedEndDate": "कृपया अपेक्षित समाप्ति तिथि चुनें",
+  "pleaseEnterLocation": "कृपया स्थान दर्ज करें",
+  "enterAValidAmount": "कृपया एक वैध राशि दर्ज करें",
+  "noPersonalExpenseEntriesFound": "कोई व्यक्तिगत खर्च एंट्री नहीं मिली।",
+  "pleaseAddANewEntryToStartTrackingYourExpenses": "कृपया अपनी खर्चों को ट्रैक करने के लिए एक नई एंट्री जोड़ें।",
+  "noDataAvailable": "कोई डेटा उपलब्ध नहीं है",
+  "noExpensesFound": "कोई खर्च नहीं मिला।",
+  "areYouSureYouWantToDelete": "क्या आप वाकई इसे हटाना चाहते हैं?"
+}
