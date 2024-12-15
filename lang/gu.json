@@ -85,6 +85,9 @@
   "gujarati": "ગુજરાતી",
   "areYouSureLogout": "શું તમે ખરેખર લોગઆઉટ કરવા માંગો છો?",
   "password": "પાસવર્ડ",
+  "ok": "ઓક",
+  "deleteProject": "પ્રોજેક્ટ કાઢો",
+  "areYouSureDeleteProject": "શું તમે ખાતરી છો કે આ પ્રોજેક્ટ કાઢી દઈશું?",
   "tokenExpired": "ટોકન સમાપ્ત થઈ ગયો છે. કૃપા કરીને ફરીથી લોગિન કરો.",
   "subscriptionExpired": "તમારી સબ્સ્ક્રિપ્શન સમાપ્ત થઈ ગઈ છે.",
   "left": "તમારા પાસે બાકી છે.",
@@ -153,5 +156,21 @@
   "incomeEntryNotFound": "આવક એન્ટ્રી મળી નથી.",
   "noIncomeEntriesFoundForFinancialId": "આ વિતીય આઈડી માટે કોઈ આવક એન્ટ્રી મળી નથી.",
   "errorOccurred": "દોષ આવ્યો છે.",
-  "failedToLoadUserProjects": "યુઝરના પ્રોજેક્ટ્સ લોડ કરવામાં દોષ."
+  "failedToLoadUserProjects": "યુઝરના પ્રોજેક્ટ્સ લોડ કરવામાં દોષ.",
+  "errorLoadingUserData": "વપરાશકર્તા માહિતી લોડ કરવામાં ભૂલ આવી.",
+  "noUserDataAvailable": "કોઈ વપરાશકર્તા માહિતી ઉપલબ્ધ નથી.",
+  "subscriptionOverMessage": "તમારું સબ્સ્ક્રિપ્શન સમાપ્ત થઈ ગયું છે. કૃપા કરીને સુબ્સ્ક્રિપ્શન વધારવા માટે સંપર્ક કરો.",
+  "somethingWentWrong": "કંઇક ગલત થયું.",
+  "noProjectsAvailable": "કોઈ પ્રોજેક્ટ ઉપલબ્ધ નથી.",
+  "retry": "ફરીથી પ્રયાસ કરો",
+  "theProjectIsFinished": "પ્રોજેક્ટ પૂરું થઈ ગયું છે.",
+  "confirmDeletion": "કૃપા કરીને માપ કાઢી આપો",
+  "noEntriesMatchFilters": "ચોખ્ખા ફિલ્ટર સાથે કોઈ એન્ટ્રી મેળવે છે.",
+  "tryAdjustingFilters": "ફિલ્ટર્સને અનુકૂળ બનાવવાનો પ્રયાસ કરો."
+  ,
+  "totalIncome": "કુલ આવક",
+  "totalExpense": "કુલ ખર્ચ",
+  "exIncome": "એક્સ-આવક",
+  "exExpense": "એક્સ-ખર્ચ",
+  "editIncome": "આવક સંપાદિત કરો"
 }
