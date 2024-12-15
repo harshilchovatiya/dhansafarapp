@@ -166,8 +166,7 @@
   "theProjectIsFinished": "પ્રોજેક્ટ પૂરું થઈ ગયું છે.",
   "confirmDeletion": "કૃપા કરીને માપ કાઢી આપો",
   "noEntriesMatchFilters": "ચોખ્ખા ફિલ્ટર સાથે કોઈ એન્ટ્રી મેળવે છે.",
-  "tryAdjustingFilters": "ફિલ્ટર્સને અનુકૂળ બનાવવાનો પ્રયાસ કરો."
-  ,
+  "tryAdjustingFilters": "ફિલ્ટર્સને અનુકૂળ બનાવવાનો પ્રયાસ કરો.",
   "totalIncome": "કુલ આવક",
   "totalExpense": "કુલ ખર્ચ",
   "exIncome": "એક્સ-આવક",
@@ -188,5 +187,9 @@
   "pleaseAddANewEntryToStartTrackingYourExpenses": "કૃપા કરીને નવા એન્ટ્રી ઉમેરો જેથી તમે તમારા ખર્ચ પર નજર રાખી શકો.",
   "noDataAvailable": "કોઈ માહિતી ઉપલબ્ધ નથી",
   "noExpensesFound": "કોઈ ખર્ચ મળતા નથી.",
-  "areYouSureYouWantToDelete": "શું તમે ખાતરી કરો છો કે તમે આ એન્ટ્રી કાઢી દઈશો?"
+  "areYouSureYouWantToDelete": "શું તમે ખાતરી કરો છો કે તમે આ એન્ટ્રી કાઢી દઈશો?",
+  "editPersonalExpense": "વ્યક્તિગત ખર્ચ સંપાદિત કરો",
+  "updateProfile": "પ્રોફાઇલ અપડેટ કરો",
+  "profileUpdatedSuccessfully": "પ્રોફાઇલ સફળતાપૂર્વક અપડેટ થઈ છે!",
+  "accountPage": "ખાતા પાનું"
 }
