@@ -172,5 +172,21 @@
   "totalExpense": "કુલ ખર્ચ",
   "exIncome": "એક્સ-આવક",
   "exExpense": "એક્સ-ખર્ચ",
-  "editIncome": "આવક સંપાદિત કરો"
+  "editIncome": "આવક સંપાદિત કરો",
+  "areYouSureDeleteEntry": "શું તમે ખાતરી છો કે આ એન્ટ્રી કાઢી દઈશું?",
+  "pleaseEnterCustomerName": "કૃપા કરીને ગ્રાહક નામ દાખલ કરો",
+  "pleaseEnterCustomerPhoneNumber": "કૃપા કરીને ગ્રાહક ફોન નંબર દાખલ કરો",
+  "pleaseEnterProjectWidth": "કૃપા કરીને પ્રોજેક્ટ પહોળાઈ દાખલ કરો",
+  "pleaseEnterProjectLength": "કૃપા કરીને પ્રોજેક્ટ લંબાઈ દાખલ કરો",
+  "pleaseEnterProjectSize": "કૃપા કરીને પ્રોજેક્ટ કદ દાખલ કરો",
+  "pleaseSelectDealFinalizedDate": "કૃપા કરીને સોદો પૂર્ણ તારીખ પસંદ કરો",
+  "pleaseSelectStartDate": "કૃપા કરીને શરૂ તારીખ પસંદ કરો",
+  "pleaseSelectExpectedEndDate": "કૃપા કરીને અપેક્ષિત અંત તારીખ પસંદ કરો",
+  "pleaseEnterLocation": "કૃપા કરીને સ્થાન દાખલ કરો",
+  "enterAValidAmount": "સાચો રકમ દાખલ કરો",
+  "noPersonalExpenseEntriesFound": "કોઈ વ્યક્તિગત ખર્ચ એન્ટ્રી મળતી નથી.",
+  "pleaseAddANewEntryToStartTrackingYourExpenses": "કૃપા કરીને નવા એન્ટ્રી ઉમેરો જેથી તમે તમારા ખર્ચ પર નજર રાખી શકો.",
+  "noDataAvailable": "કોઈ માહિતી ઉપલબ્ધ નથી",
+  "noExpensesFound": "કોઈ ખર્ચ મળતા નથી.",
+  "areYouSureYouWantToDelete": "શું તમે ખાતરી કરો છો કે તમે આ એન્ટ્રી કાઢી દઈશો?"
 }
