@@ -85,6 +85,9 @@
   "gujarati": "Gujarati",
   "areYouSureLogout": "Are you sure you want to logout?",
   "password": "Password",
+  "ok": "OK",
+  "deleteProject": "Delete Project",
+  "areYouSureDeleteProject": "Are you sure you want to delete this project?",
 
   "tokenExpired": "Token expired. Please log in again.",
   "subscriptionExpired": "Your subscription has expired.",
@@ -154,5 +157,22 @@
   "incomeEntryNotFound": "Income entry not found.",
   "noIncomeEntriesFoundForFinancialId": "No income entries found for the specified financial ID.",
   "errorOccurred": "Error occurred.",
-  "failedToLoadUserProjects": "Failed to load user projects."
+  "failedToLoadUserProjects": "Failed to load user projects.",
+   "errorLoadingUserData": "Error loading user data.",
+  "noUserDataAvailable": "No user data available.",
+  "subscriptionOverMessage": "Your subscription is over. Please connect to extend your subscription.",
+  "somethingWentWrong": "Something went wrong.",
+  "noProjectsAvailable": "No projects available.",
+  "retry": "Retry",
+  "theProjectIsFinished": "The project is finished.",
+  "confirmDeletion": "Confirm Deletion",
+  "noEntriesMatchFilters": "No entries match the selected filters.",
+  "tryAdjustingFilters": "Try adjusting the filters.",
+  
+  "totalIncome": "Total Income",
+  "totalExpense": "Total Expense",
+  "exIncome": "Ex-Income",
+  "exExpense": "Ex-Expense",
+  "editIncome": "Edit Income",
+  "areYouSureDeleteEntry": "Are you sure you want to delete this entry?"
 }
