@@ -1,5 +1,12 @@
 [
   {
+    "image": "https://harshilchovatiya.github.io/dhansafarapp/vigyapan/ads-img/Ads-3.png",
+    "link": "https://harshilchovatiya.github.io/dhansafarapp/vigyapan/ads-img/Plan1.png",
+    "metadata": {
+      "description": "Special Offer!"
+    }
+  },
+  {
     "image": "https://harshilchovatiya.github.io/dhansafarapp/vigyapan/ads-img/ads1-1.png",
     "link": "https://harshilchovatiya.github.io/dhansafarapp/vigyapan/ads-img/Pricing.png",
     "metadata": {
@@ -8,7 +15,7 @@
   },
   {
     "image": "https://harshilchovatiya.github.io/dhansafarapp/vigyapan/ads-img/ads2-1.png",
-    "link": "https://harshilchovatiya.github.io/dhansafarapp/vigyapan/ads-img/Plans.png",
+    "link": "https://harshilchovatiya.github.io/dhansafarapp/vigyapan/ads-img/Plan1.png",
     "metadata": {
       "description": "Limited Time Offer!"
     }
