@@ -88,10 +88,8 @@
   "ok": "OK",
   "deleteProject": "Delete Project",
   "areYouSureDeleteProject": "Are you sure you want to delete this project?",
-
   "tokenExpired": "Token expired. Please log in again.",
   "subscriptionExpired": "Your subscription has expired.",
-  "left": "You have left.",
   "failedToCreateBudgetLimit": "Failed to create budget limit.",
   "failedToFetchBudgetLimits": "Failed to fetch budget limits.",
   "failedToFetchDeletedBudgetLimits": "Failed to fetch deleted budget limits.",
@@ -158,7 +156,7 @@
   "noIncomeEntriesFoundForFinancialId": "No income entries found for the specified financial ID.",
   "errorOccurred": "Error occurred.",
   "failedToLoadUserProjects": "Failed to load user projects.",
-   "errorLoadingUserData": "Error loading user data.",
+  "errorLoadingUserData": "Error loading user data.",
   "noUserDataAvailable": "No user data available.",
   "subscriptionOverMessage": "Your subscription is over. Please connect to extend your subscription.",
   "somethingWentWrong": "Something went wrong.",
@@ -168,7 +166,6 @@
   "confirmDeletion": "Confirm Deletion",
   "noEntriesMatchFilters": "No entries match the selected filters.",
   "tryAdjustingFilters": "Try adjusting the filters.",
-  
   "totalIncome": "Total Income",
   "totalExpense": "Total Expense",
   "exIncome": "Ex-Income",
@@ -190,7 +187,14 @@
   "noDataAvailable": "No Data Available",
   "noExpensesFound": "No expenses found.",
   "areYouSureYouWantToDelete": "Are you sure you want to Delete?",
-  "editPersonalExpense": "Edit Personal Expense","updateProfile": "Update Profile",
+  "editPersonalExpense": "Edit Personal Expense",
+  "updateProfile": "Update Profile",
   "profileUpdatedSuccessfully": "Profile updated successfully!",
-  "accountPage": "Account Page"
+  "accountPage": "Account Page",
+  "days": "Days",
+  "day": "Day",
+  "left": "Left",
+  "over": "Over",
+  "month": "Month",
+  "projectFinished": "The project is finished!"
 }

@@ -90,7 +90,6 @@
   "areYouSureDeleteProject": "क्या आप वाकई इस प्रोजेक्ट को हटाना चाहते हैं?",
   "tokenExpired": "टोकन समाप्त हो गया है। कृपया फिर से लॉग इन करें।",
   "subscriptionExpired": "आपकी सदस्यता समाप्त हो गई है।",
-  "left": "आपके पास बचे हैं।",
   "failedToCreateBudgetLimit": "बजट सीमा बनाने में विफल।",
   "failedToFetchBudgetLimits": "बजट सीमाओं को लोड करने में विफल।",
   "failedToFetchDeletedBudgetLimits": "हटाई गई बजट सीमाओं को लोड करने में विफल।",
@@ -191,5 +190,11 @@
   "editPersonalExpense": "व्यक्तिगत खर्च संपादित करें",
   "updateProfile": "प्रोफाइल अपडेट करें",
   "profileUpdatedSuccessfully": "प्रोफाइल सफलतापूर्वक अपडेट हो गई!",
-  "accountPage": "खाता पृष्ठ"
+  "accountPage": "खाता पृष्ठ",
+  "days": "दिन",
+  "day": "दिन",
+  "left": "बचा हुआ",
+  "over": "पूरा",
+  "month": "महीना",
+  "projectFinished": "प्रोजेक्ट पूरा हो गया है!"
 }
