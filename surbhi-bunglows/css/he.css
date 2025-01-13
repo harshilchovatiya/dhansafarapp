@@ -1,0 +1,124 @@
+/* General Styling */
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #EDE7F6;
+}
+
+/* Header Styling */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #EDE7F6;
+    border-bottom: 2px solid #502D8A;
+    position: sticky;
+    top: 0; /* Make sure it sticks to the top */
+    z-index: 1202; /* Ensure it's on top of other content */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for better visibility */
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.logo span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #502D8A;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #502D8A;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #333;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icons a {
+    color: #502D8A;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #333;
+}
+
+/* Mobile Menu Toggle */
+.mobile-menu {
+    display: none;
+    cursor: pointer;
+    font-size: 30px;
+    color: #502D8A;
+}
+
+/* Mobile Responsive Design */
+@media (max-width: 768px) {
+
+    .social-icons{
+        display: none;
+    }
+
+    /* Hide navigation links by default on small screens */
+    nav ul {
+        display: none;
+        width: 88%;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        background-color: #EDE7F6;
+        padding: 20px;
+        border-top: 2px solid #502D8A;
+        border-bottom: 2px solid #502D8A;
+        text-align: center;
+        z-index: 9999;
+    }
+
+    /* Display mobile menu button */
+    .mobile-menu {
+        display: block;
+        z-index: 999;
+    }
+
+
+    /* Mobile navigation links when menu is active */
+    nav.active ul {
+        display: block;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+        z-index: 99;
+    }
+
+    nav a {
+        font-size: 18px;
+        z-index: 999;
+    }
+}

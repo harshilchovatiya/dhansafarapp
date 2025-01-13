@@ -1,0 +1,77 @@
+/* Advertiser Content Section */
+.advertiser-content {
+    padding: 40px;
+    background-color: #fff;
+    color: #502D8A;
+    text-align: center;
+}
+
+/* Video Section Styling */
+.video-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #502D8A;
+}
+
+.video-container video {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    width: 720px;  /* Fixed width for video */
+    height: 1280px; /* Fixed height for video */
+    object-fit: cover; /* Ensures video maintains aspect ratio */
+    margin-bottom: 40px; /* Space between video and brochure */
+}
+
+/* Brochure Section Styling */
+.brochure-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #502D8A;
+}
+
+.brochure-container {
+    margin-bottom: 40px;
+}
+.brochure-container iframe {
+    height: 100vh; /* Adjust height dynamically based on viewport height */
+    border: 1px solid #502D8A;
+    border-radius: 5px;
+}
+
+embed {
+    border: 1px solid #502D8A;
+    border-radius: 5px;
+    width: 100%; /* Ensure it stretches across available space */
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+
+    .advertiser-content {
+        padding: 20px;
+    }
+
+    /* Video Section Styling for Mobile */
+    .video-container video {
+        width: 100% !important;  /* Make the video responsive */
+        height: auto !important; /* Maintain aspect ratio for mobile */
+        max-width: 100%; /* Prevent video from overflowing */
+    }
+
+    /* Brochure Section Styling for Mobile */
+    .brochure-section h2 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+
+    /* Adjust brochure embed for mobile */
+    .brochure-container embed {
+        height: 400px; /* Adjust height for mobile view */
+    }
+
+    /* General Text Styling */
+    h2 {
+        font-size: 24px;
+    }
+}
