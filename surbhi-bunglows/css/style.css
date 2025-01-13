@@ -5,6 +5,10 @@
     color: #502D8A;
     text-align: center;
 }
+.video-section{
+    margin-top: 40px;
+
+}
 
 /* Video Section Styling */
 .video-section h2 {
@@ -33,16 +37,12 @@
 .brochure-container {
     margin-bottom: 40px;
 }
-.brochure-container iframe {
-    height: 100vh; /* Adjust height dynamically based on viewport height */
-    border: 1px solid #502D8A;
-    border-radius: 5px;
-}
 
-embed {
-    border: 1px solid #502D8A;
-    border-radius: 5px;
-    width: 100%; /* Ensure it stretches across available space */
+/* Carousel styling */
+.carousel-item img {
+    width: 100%;
+    height: auto;  /* Ensure the images are responsive */
+    max-height: 500px;  /* Limit height to fit better on mobile */
 }
 
 /* Mobile Responsiveness */
@@ -65,9 +65,8 @@ embed {
         margin-bottom: 15px;
     }
 
-    /* Adjust brochure embed for mobile */
-    .brochure-container embed {
-        height: 400px; /* Adjust height for mobile view */
+    .carousel-item img {
+        max-height: 400px;  /* Adjust height for mobile view */
     }
 
     /* General Text Styling */
