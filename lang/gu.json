@@ -218,5 +218,13 @@
   "confirmNewPassword": "નવી પાસવર્ડની પુષ્ટિ કરો",
   "subscriptionExpiringSoon": "સબ્સ્ક્રિપ્શન ટૂંક સમયમાં સમાપ્ત થઈ રહ્યું છે",
   "pleaseRenewItSoonToAvoidAnyInterruption": "કૃપા કરીને તેને ટૂંક સમયમાં નવીનતમ કરો જેથી કરાવામાં કોઈ વિક્ષેપ ન થાય.",
-  "months": "મહિના"
+  "months": "મહિના",
+  "addNewEntryToStartTracking": "કૃપા કરીને નવા એન્ટ્રી ઉમેરો જેથી તમારું ખર્ચ ટ્રેક કરવામાં આવે.",
+  "addYourExpense": "તમારો ખર્ચ ઉમેરો",
+  "agreeTo": "સ્વીકાર કરો",
+  "terms": "કાયદાકીય શરતો",
+  "and": "અને",
+  "dontHaveAccount": "ખાતું નથી?",
+  "createAccount": "ખાતું બનાવો",
+  "alreadyHaveAccount": "હવે ખાતું છે?"
 }

@@ -218,5 +218,13 @@
   "confirmNewPassword": "Confirm New Password",
   "subscriptionExpiringSoon": "Subscription Expiring Soon",
   "pleaseRenewItSoonToAvoidAnyInterruption": "Please renew it soon to avoid any interruption.",
-  "months": "Months"
+  "months": "Months",
+  "addNewEntryToStartTracking": "Please add a new entry to start tracking your expenses.",
+  "addYourExpense": "Add Your Expense",
+  "agreeTo": "agree to",
+  "terms": "terms",
+  "and": "and",
+  "dontHaveAccount": "Don't have an account?",
+  "createAccount": "Create an account",
+  "alreadyHaveAccount": "Already have an account?"
 }

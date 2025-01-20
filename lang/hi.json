@@ -218,5 +218,13 @@
   "confirmNewPassword": "नए पासवर्ड की पुष्टि करें",
   "subscriptionExpiringSoon": "सदस्यता जल्द समाप्त हो रही है",
   "pleaseRenewItSoonToAvoidAnyInterruption": "कृपया इसे शीघ्र नवीनीकरण करें ताकि किसी भी विघटन से बचा जा सके।",
-  "months": "महीने"
+  "months": "महीने",
+  "addNewEntryToStartTracking": "कृपया खर्च ट्रैक करना शुरू करने के लिए एक नई प्रविष्टि जोड़ें।",
+  "addYourExpense": "अपना खर्च जोड़ें",
+  "agreeTo": "सहमत हैं",
+  "terms": "नियम और शर्तें",
+  "and": "और",
+  "dontHaveAccount": "खाता नहीं है?",
+  "createAccount": "खाता बनाएं",
+  "alreadyHaveAccount": "पहले से खाता है?"
 }
