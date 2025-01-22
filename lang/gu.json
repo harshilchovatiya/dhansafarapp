@@ -226,5 +226,11 @@
   "and": "અને",
   "dontHaveAccount": "ખાતું નથી?",
   "createAccount": "ખાતું બનાવો",
-  "alreadyHaveAccount": "હવે ખાતું છે?"
+  "alreadyHaveAccount": "શું તમારે પહેલેથી ખાતું છે?",
+  "selectAssociations": "એસોસિએશન્સ પસંદ કરો",
+  "none": "કોઈ નહીં",
+  "enterYourCustomAssociation": "તમારું કસ્ટમ એસોસિએશન દાખલ કરો",
+  "addCustomAssociation": "કસ્ટમ એસોસિએશન ઉમેરો",
+  "signupMessage": "અમારી એપ્લિકેશન શરૂ કરવા માટે એકાઉન્ટ બનાવો.",
+  "addNewProjectToStartTracking": "નવો પ્રોજેક્ટ ઉમેરો અને ટ્રેકિંગ શરૂ કરો."
 }

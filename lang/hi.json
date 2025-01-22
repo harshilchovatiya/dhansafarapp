@@ -226,5 +226,11 @@
   "and": "और",
   "dontHaveAccount": "खाता नहीं है?",
   "createAccount": "खाता बनाएं",
-  "alreadyHaveAccount": "पहले से खाता है?"
+  "alreadyHaveAccount": "पहले से खाता है?",
+  "selectAssociations": "संघटन चुनें",
+  "none": "कोई नहीं",
+  "enterYourCustomAssociation": "अपना कस्टम संगठन दर्ज करें",
+  "addCustomAssociation": "कस्टम संगठन जोड़ें",
+  "signupMessage": "हमारे ऐप शुरू करने के लिए खाता बनाएं।",
+  "addNewProjectToStartTracking": "ट्रैकिंग शुरू करने के लिए एक नया प्रोजेक्ट जोड़ें"
 }
