@@ -205,7 +205,7 @@
   "logoutFailed": "लॉगआउट विफल",
   "successful": "सफल!",
   "errorLoadingProfileData": "प्रोफ़ाइल डेटा लोड करने में त्रुटि",
-  "signUp": "साइन अप करें",
+  "signUp": "रजिस्टर करें",
   "projectDeletedSuccessfully": "प्रोजेक्ट सफलतापूर्वक हटाया गया",
   "passwordMinLengthError": "पासवर्ड में कम से कम 8 वर्ण होने चाहिए।",
   "passwordMismatch": "पासवर्ड मेल नहीं खाते हैं।",
