@@ -1,0 +1,66 @@
+/* General body setup */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Main section setup */
+  .card-display {
+    background-color: #502D8A; /* Primary color */
+    padding: 20px;
+    display: flex;
+    flex-direction: column; /* Stack the cards vertically */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 20px; /* Space between cards */
+  }
+  
+  .card {
+    width: 80%; /* Responsive width */
+    max-width: 320px; /* Max width for larger devices */
+    height: auto;
+  }
+  
+  .card-side {
+    width: 100%;
+    height: auto;
+  }
+  /* Style for the "Call Now" button */
+.call-button {
+    background-color: white; /* Primary color */
+    color: #3a1e6a;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .call-button:hover {
+    background-color: #3a1e6a; /* Darker shade for hover effect */
+  }
+  
+  .call-button:active {
+    background-color: #2d1450; /* Even darker shade when clicked */
+  }
+  
+  /* Responsive handling for mobile devices */
+  @media (max-width: 600px) {
+    .card-display{
+        justify-content: start;
+    }
+    .card {
+      width: 90%; /* Adjust width to fit better on smaller screens */
+      max-width: 280px; /* Optional smaller max width for very small devices */
+    }
+    .call-button {
+        font-size: 16px;
+        padding: 12px 15px;
+      }
+  }
+  
