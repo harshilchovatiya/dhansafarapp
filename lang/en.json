@@ -240,5 +240,8 @@
   "majorUpdate": "A Major update is available.",
   "minorUpdate": "A Minor update is available. Would you like to update now?",
   "updatePrompt": "Please update to continue. You can download the update now.",
-  "download": "Download"
+  "download": "Download",
+  "extraWorkIncomeTitle": "Extra Work Income",
+  "extraWorkDescriptionLabel": "Extra Work Description",
+  "extraWorkExpense": "Extra Work Expense"
 }

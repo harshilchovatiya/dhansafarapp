@@ -240,5 +240,8 @@
   "majorUpdate": "એક મોટું અપડેટ ઉપલબ્ધ છે.",
   "minorUpdate": "એક નાનું અપડેટ ઉપલબ્ધ છે. શું તમે હવે અપડેટ કરવા માગો છો?",
   "updatePrompt": "જારી રાખવા માટે અપડેટ કરો. તમે હવે અપડેટ ડાઉનલોડ કરી શકો છો.",
-  "download": "ડાઉનલોડ કરો"
+  "download": "ડાઉનલોડ કરો",
+  "extraWorkIncomeTitle": "વધારાના કામની આવક",
+  "extraWorkDescriptionLabel": "વધારાના કામનું વર્ણન",
+  "extraWorkExpense": "વધારાના કામનો ખર્ચ"
 }
