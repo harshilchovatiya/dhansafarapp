@@ -232,5 +232,13 @@
   "enterYourCustomAssociation": "अपना कस्टम संगठन दर्ज करें",
   "addCustomAssociation": "कस्टम संगठन जोड़ें",
   "signupMessage": "हमारे ऐप शुरू करने के लिए खाता बनाएं।",
-  "addNewProjectToStartTracking": "ट्रैकिंग शुरू करने के लिए एक नया प्रोजेक्ट जोड़ें"
+  "addNewProjectToStartTracking": "ट्रैकिंग शुरू करने के लिए एक नया प्रोजेक्ट जोड़ें",
+  "pleaseWait": "कृपया प्रतीक्षा करें...",
+  "downloaded": "% डाउनलोड हो चुका है",
+  "newVersion": "नया संस्करण",
+  "available": "उपलब्ध है",
+  "majorUpdate": "एक प्रमुख अपडेट उपलब्ध है।",
+  "minorUpdate": "एक छोटा अपडेट उपलब्ध है। क्या आप अब अपडेट करना चाहेंगे?",
+  "updatePrompt": "जारी रखने के लिए कृपया अपडेट करें। आप अब अपडेट डाउनलोड कर सकते हैं।",
+  "download": "डाउनलोड करें"
 }

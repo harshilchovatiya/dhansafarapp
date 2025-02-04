@@ -232,5 +232,13 @@
   "enterYourCustomAssociation": "તમારું કસ્ટમ એસોસિએશન દાખલ કરો",
   "addCustomAssociation": "કસ્ટમ એસોસિએશન ઉમેરો",
   "signupMessage": "અમારી એપ્લિકેશન શરૂ કરવા માટે એકાઉન્ટ બનાવો.",
-  "addNewProjectToStartTracking": "નવો પ્રોજેક્ટ ઉમેરો અને ટ્રેકિંગ શરૂ કરો."
+  "addNewProjectToStartTracking": "નવો પ્રોજેક્ટ ઉમેરો અને ટ્રેકિંગ શરૂ કરો.",
+  "pleaseWait": "કૃપા કરીને રાહ જુઓ...",
+  "downloaded": "% ડાઉનલોડ થયું",
+  "newVersion": "નવી સંસ્કરણ",
+  "available": "ઉપલબ્ધ છે",
+  "majorUpdate": "એક મોટું અપડેટ ઉપલબ્ધ છે.",
+  "minorUpdate": "એક નાનું અપડેટ ઉપલબ્ધ છે. શું તમે હવે અપડેટ કરવા માગો છો?",
+  "updatePrompt": "જારી રાખવા માટે અપડેટ કરો. તમે હવે અપડેટ ડાઉનલોડ કરી શકો છો.",
+  "download": "ડાઉનલોડ કરો"
 }

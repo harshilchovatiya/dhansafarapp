@@ -232,5 +232,13 @@
   "enterYourCustomAssociation": "Enter Your Custom Association",
   "addCustomAssociation": "Add Custom Association",
   "signupMessage": "Create an account to get started with our app.",
-  "addNewProjectToStartTracking": "Add a new project to start tracking"
+  "addNewProjectToStartTracking": "Add a new project to start tracking",
+  "pleaseWait": "Please wait...",
+  "downloaded": "% downloaded",
+  "newVersion": "New Version",
+  "available": "Available",
+  "majorUpdate": "A Major update is available.",
+  "minorUpdate": "A Minor update is available. Would you like to update now?",
+  "updatePrompt": "Please update to continue. You can download the update now.",
+  "download": "Download"
 }
