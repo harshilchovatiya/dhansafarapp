@@ -1,0 +1,92 @@
+/* Advertiser Content Section */
+.advertiser-content {
+    padding: 40px;
+    background-color: #fff;
+    color: #502D8A;
+    text-align: center;
+}
+
+/* Brochure Section Styling */
+.brochure-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #502D8A;
+}
+
+.brochure-container {
+    margin-bottom: 40px;
+}
+
+/* Carousel styling */
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    /* Ensure the images are responsive */
+    max-height: 500px;
+    /* Limit height to fit better on mobile */
+}
+
+/* Direct Call Button Styling */
+.direct-call-button {
+    margin-top: 30px;
+}
+
+.direct-call-button a {
+    display: inline-flex;
+    align-items: center;
+    background-color: #502D8A;
+    /* Match the primary color of your design */
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 30px;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+/* Hover effect for the Direct Call button */
+.direct-call-button a:hover {
+    background-color: #3C1F62;
+    /* Darker shade of purple */
+    transform: scale(1.05);
+}
+
+.direct-call-button a i {
+    margin-right: 8px;
+    /* Space between icon and text */
+    font-size: 20px;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+
+    .advertiser-content {
+        padding: 20px;
+    }
+
+
+    /* Brochure Section Styling for Mobile */
+    .brochure-section h2 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+
+    .carousel-item img {
+        max-height: 400px;
+        /* Adjust height for mobile view */
+    }
+
+    /* Direct Call Button for Mobile */
+    .direct-call-button a {
+        font-size: 14px;
+        /* Smaller font size for mobile */
+        padding: 10px 20px;
+        /* Adjust padding for mobile */
+    }
+
+    /* General Text Styling */
+    h2 {
+        font-size: 24px;
+    }
+}
